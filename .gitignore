@@ -2,6 +2,7 @@ node_modules
 
 pocketbase
 
+pb_data
 bun.lockb
 package-lock.json
 
